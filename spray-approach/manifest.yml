@@ -1,0 +1,6 @@
+---
+applications:
+- name: spray-approach
+  memory: 256M
+  instances: 1
+  path: target/spray-approach-1.0-SNAPSHOT-bin.zip
